@@ -1,0 +1,23 @@
+The image shows a receipt with the following information:
+
+```
+106520341191
+
+Friday, June 19, 2020
+8:00 am - 7:00 pm
+
+Ring up order
+Total Due $0.00
+Due Date: Friday, June 26, 2020
+Payable to: CASH ONLY
+```
+
+The receipt lists the following items with their respective prices:
+
+- 1x Coke (regular) - $1.50
+- 1x Breadstick - $3.00
+- 1x Fry - $3.50
+- 1x Burger - $8.00
+- 1x Chicken - $12.50
+
+The total for the items is $27.50, with tax added, making the final amount due to $29.00. The receipt also states that payment is expected on Friday, June 26, and that it can only be paid in cash.
